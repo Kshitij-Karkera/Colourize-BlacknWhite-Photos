@@ -9,9 +9,9 @@ Photo Colorizer is a Python GUI application that automatically adds color to bla
 - **Save Results:** Easily save the colorized images in your desired format.
 - **User-Friendly Interface:** Built with PySimpleGUI for an easy-to-navigate experience.
 
-##Important
+## Important
 **In order to run the demo, you will first need to download the pre-trained data from this location. At 125 MB it's too large to put into the GitHub.**
-![.](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
+!(https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
 
 ## Screenshots
 
