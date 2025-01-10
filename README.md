@@ -22,32 +22,32 @@ https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=
 
 **Load Folder**
 
-![Load Folder](./screenshots/Load Folder.png)
+![Load Folder](./screenshots/Load_Folder.png)
 
 **Image 1**
 
-![Image 1](./screenshots/Select Image 1.png)
+![Image 1](./screenshots/Select_Image_1.png)
 
 **Image 2**
 
-![Image 2](./screenshots/Select Image 2.png)
+![Image 2](./screenshots/Select_Image_2.png)
 
 **Image 3**
 
-![Image 3](./screenshots/Select Image 3.png)
+![Image 3](./screenshots/Select_Image_3.png)
 
 **Image 4**
 
-![Image 4](./screenshots/Select Image 4.png)
+![Image 4](./screenshots/Select_Image_4.png)
 
 **Image 5**
 
-![Image 5](./screenshots/Select Image 5.png)
+![Image 5](./screenshots/Select_Image_5.png)
 
 **Image 6**
 
-![Image 6](./screenshots/Select Image 6.png)
+![Image 6](./screenshots/Select_Image_6.png)
 
 **Live Video Colourization**
 
-![Live Video Colourization](./screenshots/Live Video Colourization.png)
+![Live Video Colourization](./screenshots/Live_Video_Colourization.png)
